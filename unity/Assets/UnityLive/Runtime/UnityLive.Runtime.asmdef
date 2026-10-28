@@ -1,0 +1,9 @@
+{
+  "name": "UnityLive.Runtime",
+  "rootNamespace": "UnityLive",
+  "references": [],
+  "includePlatforms": [],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "autoReferenced": true
+}
